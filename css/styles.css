@@ -1,0 +1,93 @@
+div{
+  background-color:#B85C38;
+  padding:20px;
+  width:250px;
+  height:200px;
+  margin: 10px;
+}
+body{
+  background-color:#E0C097;
+margin:0;
+text-align:center;
+}
+h1{
+  margin:0px;
+  line-height: 2;
+}
+.top{background-color:#B85C38;
+  width:200px;
+  height:200px;
+  margin: 10px;
+  border-radius:25%;
+  padding:25px;
+}
+.mid{background-color:#B85C38;
+width:150px;
+height:150px;
+margin: 10px;
+border-radius:25%;
+padding:25px;
+font-family: "ThistailsSans";
+}
+.bot{
+  background-color:#B85C38;
+  width:100px;
+  height:100px;
+  margin: 10px;
+  border-radius:25%;
+  padding:25px;
+}
+.bridge
+{
+  display: inline-block;
+  position:relative;
+  left:250px;
+}
+
+
+
+.body{
+  background-color: #5C3D2E;
+  width:100%;
+
+
+}
+#self{
+  border-radius: 5%;
+  width:100px;
+}
+.header{
+  color: #E0C097;
+  font-family: "ThistailsSans"sans-serif;
+
+}
+@font-face {
+  font-family:"custom";
+  src:url(fonts\Thistails Sans Rough.ttf);
+}
+.sub{
+  color: #E0C097;
+}
+.bottom-container{
+  background-color: #5C3D2E;
+  width: 100%;
+  height:100px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+
+  align-self: center;
+
+}
+.fourth{
+  width: 100%;
+
+  height: 800px;
+}
+.hat{
+  height: 100px
+}
+.edubcgrnd{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
